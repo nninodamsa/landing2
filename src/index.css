@@ -16,8 +16,8 @@ body {
   text-align: center
 }
 .logo {
-  width: 300px;
-  height: 100px;
+  width: 220px;
+  height: 180px;
   object-fit: cover;
 }
 .title, .subtitle {
@@ -35,7 +35,7 @@ body {
   margin: 20px 0;
 }
 .Projects {
-  background: #444b6a;
+  background: #060958;
   text-align: center;
   padding: 80px 30px 120px;
 }
@@ -65,14 +65,14 @@ body {
   text-align: center;
 }
 .button {
-  background: #6e8193;
+  background: #483cac;
   border:none;
   padding: 12px 30px;
   color: #fff;
   cursor: pointer;
 }
 .MisionContainer {
-  background: #444b6a;
+  background: #060958;
   padding: 50px 30px;
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -89,7 +89,7 @@ body {
   background: #fff;
 }
 .FooterContainer {
-  background: #232938;
+  background: #483cac;
   color: #fff;
   padding: 20px 15px;
   text-align: center;
@@ -104,7 +104,7 @@ body {
 }
 .mapHeader {
   height: 44px;
-  background: #5e7285;
+  background: #483cac;
 }
 .Modal {
   max-width: 768px;
@@ -149,7 +149,7 @@ body {
 }
 @media(min-width:991px) {
   .button:hover {
-    background: #5e7285;
+    background: #3c309f;
   }
 }
 @media(max-width:767px) {
